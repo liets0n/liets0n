@@ -1,6 +1,6 @@
 # 🧠 Lietson Dos Santos
 
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link:https://medium.com/)](https://medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link:https://medium.com/@lietsondossantos/)](https://medium.com/@lietsondossantos/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white&link:https://leetcode.com/u/li3tson/)](https://leetcode.com/u/li3tson/)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link:mailto:lietsondossanto@gmail.com)](mailto:lietsondossanto@gmail.com)
 
